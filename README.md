@@ -16,7 +16,6 @@ Design an interactive dashboard using Power BI to analyze car pricing data and e
 
 ##  Dashboard Preview
 ![Dashboard Screenshot]![Car Dashboard](https://github.com/user-attachments/assets/40227ebc-16d8-458f-a5ec-3979c7032db8)
-board.png) *(Update with actual path)*
 
 
 ##  Tools Used
