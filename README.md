@@ -3,7 +3,7 @@
 ## Objective
 Design an interactive dashboard using Power BI to analyze car pricing data and extract insights for stakeholders.
 
-## ✅ Key Features
+## Key Features
 - KPI Cards: Total Sales, Average Price, Total Cars
 - Charts:
   - Bar Chart: Price by Brand
